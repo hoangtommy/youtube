@@ -1,4 +1,18 @@
 #container {
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
+}
+
+header {
+  /* margin: auto; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-logo {
+  display: inherit;
+}
+
+.buttons {
+  display: inherit;
 }
