@@ -4,7 +4,6 @@
 }
 
 header {
-  /* margin: auto; */
   display: flex;
   justify-content: space-between;
 }
@@ -13,6 +12,28 @@ header {
   display: inherit;
 }
 
-.buttons {
+.menu-logo > a > img {
+  height: 2em;
+}
+
+.buttons > a > img {
   display: inherit;
+  height: 2em;
+}
+
+.search-bar {
+  display: inherit;
+}
+
+.searchbar {
+  border-style: inset;
+  height: 1.5em;
+}
+
+.searchbar > input {
+  width: 40em;
+}
+
+.searchbar > img {
+  height: 1em;
 }
