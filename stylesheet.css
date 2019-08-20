@@ -6,6 +6,7 @@
 header {
   display: flex;
   justify-content: space-between;
+  box-shadow: 0 8px 6px -6px #525F62;
 }
 
 .menu-logo {
@@ -31,7 +32,7 @@ header {
 }
 
 .searchbar > input {
-  width: 40em;
+  width: 60em;
 }
 
 .searchbar > img {
