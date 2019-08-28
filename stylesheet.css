@@ -41,4 +41,5 @@ header {
 
 .video-info {
   display: flex;
+  height: 2em;
 }
