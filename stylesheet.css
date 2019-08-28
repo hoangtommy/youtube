@@ -38,3 +38,7 @@ header {
 .searchbar > img {
   height: 1em;
 }
+
+.video-info {
+  display: flex;
+}
